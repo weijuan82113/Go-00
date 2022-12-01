@@ -6,7 +6,7 @@
 /*   By: wchen <wchen@42studen>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/03 14:29:00 by wchen             #+#    #+#             */
-/*   Updated: 2022/09/04 00:35:32 by wchen            ###   ########.fr       */
+/*   Updated: 2022/12/01 21:03:12 by wchen            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -39,23 +39,23 @@ var (
 )
 
 func main() {
-	fmt.Printf("%v is %T\n", s1, s1)
-	fmt.Printf("%v is %T\n", s2, s2)
-	fmt.Printf("%v is %T\n", s3, s3)
-	fmt.Printf("%v is %T\n", s4, s4)
-	fmt.Printf("%v is %T\n", s5, s5)
-	fmt.Printf("%v is %T\n", s6, s6)
-	fmt.Printf("%v is %T\n", s7, s7)
-	fmt.Printf("%v is %T\n", s8, s8)
-	fmt.Printf("%v is %T\n", s9, s9)
-	fmt.Printf("%v is %T\n", s10, s10)
-	fmt.Printf("%v is %T\n", s11, s11)
-	fmt.Printf("%v is %T\n", s12, s12)
-	fmt.Printf("%v is %T\n", s13, s13)
-	fmt.Printf("%v is %T\n", s14, s14)
-	fmt.Printf("%v is %T\n", s15, s15)
-	fmt.Printf("0x0 is %T\n", s16)
-	fmt.Printf("%v is %T\n", s17, s17)
-	fmt.Printf("%v is %T\n", s18, s18)
-	fmt.Printf("%v is %T\n", nil, nil)
+	fmt.Printf("%v is %T.\n", s1, s1)
+	fmt.Printf("%v is %T.\n", s2, s2)
+	fmt.Printf("%v is %T.\n", s3, s3)
+	fmt.Printf("%v is %T.\n", s4, s4)
+	fmt.Printf("%v is %T.\n", s5, s5)
+	fmt.Printf("%v is %T.\n", s6, s6)
+	fmt.Printf("%v is %T.\n", s7, s7)
+	fmt.Printf("%v is %T.\n", s8, s8)
+	fmt.Printf("%v is %T.\n", s9, s9)
+	fmt.Printf("%v is %T.\n", s10, s10)
+	fmt.Printf("%v is %T.\n", s11, s11)
+	fmt.Printf("%v is %T.\n", s12, s12)
+	fmt.Printf("%v is %T.\n", s13, s13)
+	fmt.Printf("%v is %T.\n", s14, s14)
+	fmt.Printf("%v is %T.\n", s15, s15)
+	fmt.Printf("0x0 is %T.\n", s16)
+	fmt.Printf("%v is %T.\n", s17, s17)
+	fmt.Printf("%v is %T.\n", s18, s18)
+	fmt.Printf("%v is %T.\n", nil, nil)
 }
